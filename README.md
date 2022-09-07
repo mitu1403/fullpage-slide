@@ -1,3 +1,5 @@
+A presentation slide made with tailwind css
+
 To run this project 
 
 ### `npm run build`
