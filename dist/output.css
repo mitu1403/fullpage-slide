@@ -595,6 +595,10 @@ p {
   width: 91.666667%;
 }
 
+.w-10\/12 {
+  width: 83.333333%;
+}
+
 .snap-y {
   scroll-snap-type: y var(--tw-scroll-snap-strictness);
 }
