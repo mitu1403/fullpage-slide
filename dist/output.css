@@ -761,3 +761,28 @@ p {
 .fp-watermark {
   display: none;
 }
+
+.element {
+  -webkit-animation: pulse 3s 1;
+          animation: pulse 3s 1;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
